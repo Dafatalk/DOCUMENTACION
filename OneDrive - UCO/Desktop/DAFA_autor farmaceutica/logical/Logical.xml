@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<LogicalDesign class="oracle.dbtools.crest.model.design.logical.LogicalDesign" name="Logical" id="D2EDD935-25EA-FC24-0580-204C489BD4A9" mainViewID="B6B28AED-0ECC-9D4F-872A-F2343256AE62">
+<createdBy>simon</createdBy>
+<createdTime>2022-08-16 01:03:41 UTC</createdTime>
+<ownerDesignName>DAFA_autor farmaceutica</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</LogicalDesign>

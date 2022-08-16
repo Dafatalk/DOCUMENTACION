@@ -1,0 +1,7 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<BusinessInfoDesign class="oracle.dbtools.crest.model.businessinfo.BusinessInfoDesign" name="Business Information" id="030F046F-2B99-CD05-C7DA-2CFC59F56E8A">
+<createdBy>simon</createdBy>
+<createdTime>2022-08-16 01:03:41 UTC</createdTime>
+<ownerDesignName>DAFA_autor farmaceutica</ownerDesignName>
+<shouldBeOpen>false</shouldBeOpen>
+</BusinessInfoDesign>

@@ -1,0 +1,19 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<Relation class="oracle.dbtools.crest.model.design.logical.Relation" name="Relation_7" directorySegmentName="seg_0" id="0BE60BAA-FBA3-BDF7-5675-79704D4EA5D9">
+<createdBy>simon</createdBy>
+<createdTime>2022-08-16 06:18:07 UTC</createdTime>
+<ownerDesignName>DAFA_autor farmaceutica</ownerDesignName>
+<engineerTo>
+<item key="556DE7EE-AA8E-AD56-521E-39F306846D0B" value="true"/>
+</engineerTo>
+<sourcePk>63021E3F-5FD4-494D-D8D9-44674204595E</sourcePk>
+<identifying>false</identifying>
+<optionalSource>true</optionalSource>
+<optionalTarget>false</optionalTarget>
+<sourceCardinality>1</sourceCardinality>
+<sourceEntity>5196B3AD-09AE-C92B-25AB-E26F14528716</sourceEntity>
+<targetCardinalityString>*</targetCardinalityString>
+<targetEntity>4C61F9F0-547D-73DE-6241-4414BAE3402C</targetEntity>
+<transferable>true</transferable>
+<deleteRule>NO ACTION</deleteRule>
+</Relation>
