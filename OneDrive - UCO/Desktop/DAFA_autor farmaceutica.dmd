@@ -1,8 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="DAFA_autor farmaceutica" id="A3B6CAF5-024D-4F2B-737B-032874DD25B3" version="3.5">
-<createdBy>simon</createdBy>
-<createdTime>2022-08-16 01:03:41 UTC</createdTime>
-<ownerDesignName>DAFA_autor farmaceutica</ownerDesignName>
-<capitalNames>false</capitalNames>
-<designId>A3B6CAF5-024D-4F2B-737B-032874DD25B3</designId>
-</OSDM_Design>

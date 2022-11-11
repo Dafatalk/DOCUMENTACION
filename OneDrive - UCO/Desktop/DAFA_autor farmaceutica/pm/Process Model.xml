@@ -1,7 +1,0 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
-<ProcessModel class="oracle.dbtools.crest.model.design.process.ProcessModel" name="Process Model" id="A0A906EB-1064-1D31-3B0A-EA56D05A8ECE">
-<createdBy>simon</createdBy>
-<createdTime>2022-08-16 01:03:41 UTC</createdTime>
-<ownerDesignName>DAFA_autor farmaceutica</ownerDesignName>
-<shouldBeOpen>false</shouldBeOpen>
-</ProcessModel>
